@@ -1,6 +1,8 @@
 # TikTok-script
 TikTok script 'Zy'
 
+转眼 开源的抖音脚本
+作者并未在论坛发布任何源码帖子，如果转载请备注作者Ashin及软件名 转眼
 
 <h2>介绍</h2>
 
